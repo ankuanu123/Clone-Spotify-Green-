@@ -84,9 +84,7 @@
 }
 
 #footer .footer-container .col-lg-1 {
-    /* display: flex; */
     font-size: 20px;
-    /* justify-content: space-around; */
 }
 
 #footer .footer-container .col-lg-1 i:hover {
@@ -105,13 +103,6 @@
     top: -20px;
     right: 0px;
 }
-
-
-/* #footer .footer-container .col-lg-1 .footer-icon {
-    position: absolute;
-    top: -12px;
-    left: 0px;
-} */
 
 .col-lg-2 h6,
 .col-lg-3 h6 {
